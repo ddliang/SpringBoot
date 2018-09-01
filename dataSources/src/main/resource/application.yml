@@ -1,0 +1,14 @@
+
+##数据源1
+##driverClassName driver-class-name
+spring.datasource.test1.driver-class-name: com.mysql.jdbc.Driver
+spring.datasource.test1.jdbc-url:  jdbc:mysql://127.0.0.1:3306/springboot?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+spring.datasource.test1.username: root
+spring.datasource.test1.password: root
+
+#数据源2
+spring.datasource.test2.driver-class-name: com.mysql.jdbc.Driver
+spring.datasource.test2.jdbc-url:  jdbc:mysql://127.0.0.1:3306/springboot1?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+spring.datasource.test2.username: root
+spring.datasource.test2.password: root
+
