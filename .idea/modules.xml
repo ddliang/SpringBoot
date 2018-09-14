@@ -3,8 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adminui_client/adminui_client.iml" filepath="$PROJECT_DIR$/adminui_client/adminui_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adminui_server/adminui_server.iml" filepath="$PROJECT_DIR$/adminui_server/adminui_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/cloud_parent.iml" filepath="$PROJECT_DIR$/cloud_parent/cloud_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/config-client/config-client.iml" filepath="$PROJECT_DIR$/cloud_parent/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/config-eurka-sever/config-eurka-sever.iml" filepath="$PROJECT_DIR$/cloud_parent/config-eurka-sever/config-eurka-sever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/config-server/config-server.iml" filepath="$PROJECT_DIR$/cloud_parent/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_parent/dao/dao.iml" filepath="$PROJECT_DIR$/mybatis_parent/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/eurka-server/eurka-server.iml" filepath="$PROJECT_DIR$/cloud_parent/eurka-server/eurka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis_parent/mybatis_parent.iml" filepath="$PROJECT_DIR$/mybatis_parent/mybatis_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_parent/pojo/pojo.iml" filepath="$PROJECT_DIR$/mybatis_parent/pojo/pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/cloud_parent/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_parent/service/service.iml" filepath="$PROJECT_DIR$/mybatis_parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/service-1/service-1.iml" filepath="$PROJECT_DIR$/cloud_parent/service-1/service-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/service-2/service-2.iml" filepath="$PROJECT_DIR$/cloud_parent/service-2/service-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/cloud_parent/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/cloud_parent/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/sleuth-service-hi/sleuth-service-hi.iml" filepath="$PROJECT_DIR$/cloud_parent/sleuth-service-hi/sleuth-service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_parent/sleuth-service-miya/sleuth-service-miya.iml" filepath="$PROJECT_DIR$/cloud_parent/sleuth-service-miya/sleuth-service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_parent/web/web.iml" filepath="$PROJECT_DIR$/mybatis_parent/web/web.iml" />
     </modules>
   </component>
 </project>

@@ -6,7 +6,15 @@
 	<groupId>com.cloud</groupId>
 	<artifactId>cloud_parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+    <modules>
+        <module>eurka-server</module>
+		<module>service-1</module>
+		<module>service-2</module>
+		<module>service-ribbon</module>
+		<module>serice-feign</module>
+		<module>service-zuul</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>cloud_parent</name>
 	<description>Demo project for Spring Boot</description>
@@ -18,20 +26,16 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
+		<spring-cloud.version>Finchley.SR1</spring-cloud.version>
 	</properties>
 
-	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
+
 
 	<dependencyManagement>
 		<dependencies>
@@ -44,7 +48,13 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 	<build>
 		<plugins>
 			<plugin>

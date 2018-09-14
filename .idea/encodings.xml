@@ -2,8 +2,27 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adminui_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adminui_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/config-eurka-sever" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/eurka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/serice-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/service-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/service-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/service-2/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/sleuth-service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_parent/sleuth-service-miya" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_parent/dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_parent/pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_parent/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_parent/web" charset="UTF-8" />
   </component>
 </project>

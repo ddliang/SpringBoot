@@ -4,10 +4,31 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/adminui_server/pom.xml" />
+        <option value="$PROJECT_DIR$/adminui_client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/eurka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/service-1/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/service-2/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/serice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/config-eurka-sever/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/sleuth-service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/sleuth-service-miya/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cloud_parent/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_parent/web/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

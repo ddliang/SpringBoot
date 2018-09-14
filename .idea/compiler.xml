@@ -6,14 +6,52 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="adminui_client" />
+        <module name="adminui_server" />
+        <module name="config-client" />
+        <module name="config-eurka-sever" />
+        <module name="config-server" />
+        <module name="dao" />
+        <module name="demo" />
+        <module name="eurka-server" />
         <module name="mybatis" />
+        <module name="pojo" />
+        <module name="serice-feign" />
+        <module name="service" />
+        <module name="service-1" />
+        <module name="service-2" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="sleuth-service-hi" />
+        <module name="sleuth-service-miya" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="adminui_client" target="1.8" />
+      <module name="adminui_server" target="1.8" />
+      <module name="cloud_parent" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-eurka-sever" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="dao" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="eurka-server" target="1.8" />
       <module name="mybatis" target="1.8" />
       <module name="mybatis_parent" target="1.8" />
+      <module name="pojo" target="1.8" />
+      <module name="serice-feign" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-1" target="1.8" />
+      <module name="service-2" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="sleuth-service-hi" target="1.8" />
+      <module name="sleuth-service-miya" target="1.8" />
       <module name="SpringBoot" target="1.8" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
